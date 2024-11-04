@@ -1,1 +1,1 @@
-Class demo repo
+Class Demo Repo
